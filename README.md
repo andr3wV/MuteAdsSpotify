@@ -1,6 +1,6 @@
 # Spotify Ad Removal for Poor People
 
-I can't afford premium, so I decided to learn some basic Shell and make an app to run in the background that mutes your sound when an ad plays. 
+I can't afford premium, so I decided to learn some basic Shell and make an app that mutes your sound when an ad plays. 
 
 ## How to Install
 In terminal, navigate to the the directory where you want this folder stored -- PATH is the placeholder here. Then execute the following line: 
