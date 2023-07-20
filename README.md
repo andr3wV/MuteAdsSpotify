@@ -1,4 +1,4 @@
-# Spotify Ad Removal for Poor People
+# Spotify Ad Removal for MacOS
 
 I can't afford premium, so I decided to learn some basic Shell and make an app that mutes your sound when an ad plays. 
 
